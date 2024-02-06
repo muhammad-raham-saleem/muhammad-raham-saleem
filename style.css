@@ -1,0 +1,23 @@
+ 
+ 
+ html{
+ margin:0;
+ padding:0;
+ font-family:'popins' sans-serif;
+ box-sizing:border-box;
+
+ 
+}
+
+.container{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(135 deg,#153677, #4e085f);
+}
+
+.todoapp{
+    width:100%;
+    max-width:540px;
+    background: white;
+    
+}
